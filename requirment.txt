@@ -1,0 +1,5 @@
+python3
+hashlib
+json
+os
+tkinter
